@@ -1,4 +1,4 @@
-// VARIÁVEL LET E VAR 
+// VARIÁVEL LET 
 
 
 // Declara uma variável sem valor
@@ -65,7 +65,7 @@ Quando precisamos armazenar um valor que não deve ser alterado, podemos usar um
 Assim como uma variável, uma constante guarda um valor temporariamente na memória, porém esse valor é fixo e não pode ser modificado. 
 Ao tentar alterar o valor de uma constante, um erro será gerado. 
 É útil utilizar constantes quando queremos garantir que um valor não seja alterado. 
-Essa prática será explorada ao longo das aulas, principalmente durante o desenvolvimento de projetos.  
+
 */
 
 
