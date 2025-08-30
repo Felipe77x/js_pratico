@@ -60,13 +60,18 @@ console.log(index)
 
 const Email = 'laracroft@gmail.com'
 
-const lastIndexOfA = Email.lastIndexOf('a')
+//lastIndexOf(): retorna a última posição em que um valor aparece na string.
 
-//console.log(lastIndexOfA)
+const lastIndexOfA = Email.lastIndexOf('f')
+
+console.log(lastIndexOfA)
+
+//slice(): extrai uma parte da string com base em índices.
 
 const emailSlice = Email.slice(4,9)
-//console.log(emailSlice)
+console.log(emailSlice)
 
+// replace(): substitui parte de uma string por outra.
 
 const emailReplace = Email.replace('laracroft', 'Felipe-Dias')
 console.log(emailReplace)
